@@ -9,7 +9,7 @@ _September 2024 – Present_
 
 ---
 
-### [Xi’an Jiaotong-Liverpool University], City, Country  
+### [Xi’an Jiaotong-Liverpool University], Suzhou, China 
 **Bachelor of Engineering in Computer Science and Technology**  
 _September 2020 – July 2024_
 
