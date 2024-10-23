@@ -1,10 +1,9 @@
 ---
 layout: homepage
 ---
+{% include_relative _includes/about.md %}
 
-## About Me
-
-I am a Ph.D. student at ...
+{% include_relative _includes/education.md %}
 
 {% include_relative _includes/interests.md %}
 
