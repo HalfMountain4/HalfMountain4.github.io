@@ -11,7 +11,7 @@ I am a Ph.D. student at ...
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/skills.md %}
 
 ## News
 
