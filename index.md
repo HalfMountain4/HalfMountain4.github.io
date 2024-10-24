@@ -9,3 +9,4 @@ layout: homepage
 
 {% include_relative _includes/skills.md %}
 
+{% include_relative _includes/projects.md %}
