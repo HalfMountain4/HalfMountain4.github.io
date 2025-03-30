@@ -3,7 +3,7 @@ main:
   - title: Data Driven Recommendation in Brain-Metavers Interaction
     authors: Zihui Qin, <strong>Yilin Cao</strong>, Jeongyeong Park, Qianru Liu, Zhuohui Xu, Nanlin Jin, Hai-Ning Liang
     conference_short: ICSCC
-    conference: We developed a prototype for Brain-Metaverse Interaction (BMI) for mental evaluation and treatment.
+    conference: We developed a prototype system integrating Brain-Metaverse Interaction (BMI) technologies aimed at supporting mental evaluation and therapeutic interventions in immersive virtual environments. I collaborated on designing experiments for data collection and user studies. I also designed and implemented machine learning models to classify emotional states from EEG signals finishing the data analysis using Python and MATLAB.
     pdf: ./assets/files/Data-Driven_Recommendation_in_Brain-Metaverse_Interaction.pdf
     page: https://ieeexplore.ieee.org/document/10690613
     image: .\assets\img\BMI-User.jpg
