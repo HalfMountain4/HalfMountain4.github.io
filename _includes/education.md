@@ -3,8 +3,8 @@
 
 #### [University of Manchester], Manchester, UK
 **Master of Science in Robotics** _September 2024 – Present_
-- Relevant Courses: Robotic Systems, Machine Learning
-- Current Project: Leo Rover robot detecting blocks and grasping
+- Relevant Courses: Robotic Systems, Machine Learning, Computer Vision
+- Current Project: Autonomous search and retrieval robot
 
 #### [Xi’an Jiaotong-Liverpool University], Suzhou, China
 **Bachelor of Engineering in Computer Science and Technology** _September 2020 – July 2024_
