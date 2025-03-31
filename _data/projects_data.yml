@@ -20,7 +20,7 @@ main:
   - title: Human Robot Collaboration in Industrial Applications.pdf
     authors: Yuyi Yang, Yanzhang Wang, <strong>Yilin Cao</strong>, Zhiyang Zhao, Xinpeng Liu, Yihong Wang, Haiyang Zhang, Yushan Pan
     conference_short: ICVR
-    conference: We proposed a system used for real-world classification problems with industrial robots.
+    conference: We proposed a system used for real-world classification problems with industrial robots. I develoed the object classification module with OpenCV. This project gave me practical insights into applied computer vision in robotics.
     pdf: ./assets/files/Human_Robot_Collaboration_in_Industrial_Applications.pdf
     page: https://ieeexplore.ieee.org/document/10169650
     image: ./assets/img/industrial_robot.png
@@ -28,7 +28,7 @@ main:
   - title: Robot Localization and Navigation with SLAM
     authors: <strong>Yiliin.Cao</strong>, Jifeng.Li, Zhiyang.Zhao, Yilin.Yang, Yihan Lu
     conference_short: 
-    conference: Using LiDAR and depth camera to realize localization and navigation.
+    conference: This project focuses on implementing robot localization and autonomous navigation using Simultaneous Localization and Mapping (SLAM) techniques. I implemented SLAM algorithms using ROS and collected mapping data for analysis. I gained hands-on experience with robot perception and navigation, deepening my understanding of SLAM, sensor fusion, and motion planning.
     pdf: ./assets/files/Robot Localization and Navigation with SLAM.pdf
     image: ./assets/img/slam_robot.png
 
