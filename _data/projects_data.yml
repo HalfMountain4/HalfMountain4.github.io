@@ -11,7 +11,7 @@ main:
   - title: Bionic Robots as a New Alternative to Guided Dogs
     authors: <strong>Yilin Cao</strong>, Nanlin Jin, Yihong Wang, Chengtao Ji, Yushan Pan
     conference_short: ICVR
-    conference: Exploring human-robot-interaction and using it as pre-research for designing it into a complete guide dog.
+    conference: This project explores the design and evaluation of bionic robots as a potential technological alternative to traditional guide dogs, aiming to assist visually impaired individuals in navigation and daily mobility. I designed and implemented early-stage navigation and obstacle detection algorithms using ultrasonic sensors and infrared modules. In addition, I explored human-robot-interaction and using it as pre-research for designing it into a complete guide dog.
     pdf: ./assets/files/Bionic_Robots_as_a_New_Alternative_to_Guided_Dogs.pdf
     page: https://ieeexplore.ieee.org/document/10169301
     notes: Oral Presentation
