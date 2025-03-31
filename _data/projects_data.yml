@@ -3,7 +3,7 @@ main:
   - title: Autonomous Search and Retrieval Robot Project
     authors: <strong>Yilin Cao</strong>, Ao xiao, Mahir Pokar, Euan Baldwin
     conference_short:
-    conference:
+    conference: Build upon the Leo Rover platform, we designed the system to autonomously navigate a static indoor environment and  retrieve object.
     page: https://github.com/MahirPokar/Autonomous-search-and-retrieval-robot-project
     image: .\assets\img\robot_diagram.png
 
