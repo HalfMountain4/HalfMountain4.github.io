@@ -5,7 +5,7 @@ main:
     conference_short:
     conference:
     page: https://github.com/MahirPokar/Autonomous-search-and-retrieval-robot-project
-    image: .\assets\img\
+    image: .\assets\img\robot_diagram.png
 
   - title: Data Driven Recommendation in Brain-Metavers Interaction
     authors: Zihui Qin, <strong>Yilin Cao</strong>, Jeongyeong Park, Qianru Liu, Zhuohui Xu, Nanlin Jin, Hai-Ning Liang
