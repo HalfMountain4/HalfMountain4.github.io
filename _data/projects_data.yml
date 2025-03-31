@@ -1,5 +1,13 @@
 main:
 
+  - title: Autonomous Search and Retrieval Robot Project
+    authors: <strong>Yilin Cao</strong>, Ao xiao, Mahir Pokar, Euan Baldwin
+    conference_short:
+    conference: 
+    pdf: ./assets/files/
+    page: https://github.com/MahirPokar/Autonomous-search-and-retrieval-robot-project
+    image: .\assets\img\
+
   - title: Data Driven Recommendation in Brain-Metavers Interaction
     authors: Zihui Qin, <strong>Yilin Cao</strong>, Jeongyeong Park, Qianru Liu, Zhuohui Xu, Nanlin Jin, Hai-Ning Liang
     conference_short: ICSCC
