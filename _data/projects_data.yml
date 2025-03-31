@@ -3,7 +3,7 @@ main:
   - title: Autonomous Search and Retrieval Robot Project
     authors: <strong>Yilin Cao</strong>, Ao Xiao, Mahir Pokar, Euan Baldwin
     conference_short:
-    conference: Build upon the Leo Rover platform, we designed the system to autonomously navigate a static indoor environment and  retrieve object.
+    conference: Build upon the Leo Rover platform, we designed the system to autonomously navigate a static indoor environment and  retrieve object. I developed and integrated an object recognition module based on the YOLOv8n deep learning model, enabling the robot to detect and locate target objects. This project deepened my understanding of ROS2. Besides, I became familiar with the practical application of deep learning models , particularly in computer vision tasks involving object detection.
     page: https://github.com/MahirPokar/Autonomous-search-and-retrieval-robot-project
     image: .\assets\img\robot_diagram.png
 
